@@ -54,7 +54,7 @@
     {
       "parameters": {
         "mode": "retrieve-as-tool",
-        "toolDescription": "Buscar informacion sobre recursos humanos (RH) como horarios, vacaciones, etc.",
+        "toolDescription": "Buscar informacion sobre recursos humanos (RH) como horarios, vacaciones, información de empleados, etc.",
         "memoryKey": {
           "__rl": true,
           "mode": "list",
