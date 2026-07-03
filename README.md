@@ -15,8 +15,8 @@ El objetivo es reducir el tiempo de atención a consultas repetitivas y mejorar 
 ## Tecnologías utilizadas
 - Python
 - Telegram Bot API
-- OpenAI API (o el modelo que utilices)
-- LangChain (si aplica)
+- Cohere API 
+- LangChain 
 - Git y GitHub
 
 ## Instalación
@@ -24,6 +24,3 @@ El objetivo es reducir el tiempo de atención a consultas repetitivas y mejorar 
 1. Clonar el repositorio.
 2. Crear un entorno virtual.
 3. Instalar dependencias.
-
-```bash
-pip install -r requirements.txt
